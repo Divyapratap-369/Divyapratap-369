@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)](https://https://divyapratap-369.github.io/)
 # 💫 About Me:
-## Hi!👋, I'm Divya Pratap
+## Hi!👋, I'm Divya Pratap, A Self Taught Developer
  🔭 I’m currently working on LLM<br> 🌱 I’m currently learning React Js, NLP, and Python<br> 🤝 I’m looking for help with LLM and NLP<br> 👨‍💻 All of my projects are available at (https://divyapratap-369.github.io/shiv.io/)<br> 💬 Ask me about Data Structure, C++<br> 📫 How to reach me: shivarajput1506@gmail.com<br> 📄 Know about my experiences: (https://drive.google.com/file/d/1z9Uhchr6Hr0-tXkVf1Lb7X9qL7C2mhyD/view?usp=drivesdk)<br>
 
 
