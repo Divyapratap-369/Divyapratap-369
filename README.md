@@ -2,6 +2,7 @@
 # 💫 About Me:
  🔭 I’m currently working on LLM<br> 🌱 I’m currently learning React Js, NLP, and Python<br> 🤝 I’m looking for help with LLM and NLP<br> 👨‍💻 All of my projects are available at (https://divyapratap-369.github.io/shiv.io/)<br> 💬 Ask me about Data Structure, C++<br> 📫 How to reach me: shivarajput1506@gmail.com<br> 📄 Know about my experiences: (https://drive.google.com/file/d/1z9Uhchr6Hr0-tXkVf1Lb7X9qL7C2mhyD/view?usp=drivesdk)<br>
 
+<img align="right" alt="animated gif" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/shiva#5483) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__shiv_thakur) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/divya-pratap-singh-58a8851b8/) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Divyapratap-369) 
